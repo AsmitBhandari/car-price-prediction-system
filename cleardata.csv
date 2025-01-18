@@ -1,0 +1,797 @@
+name,company,year,Price,kms_driven,fuel_type
+Hyundai Santro Xing,Hyundai,2007,80000,45000,0
+Mahindra Jeep CL550,Mahindra,2006,425000,40,1
+Hyundai Grand i10,Hyundai,2014,325000,28000,0
+Ford EcoSport Titanium,Ford,2014,575000,36000,1
+Ford Figo,Ford,2012,175000,41000,1
+Hyundai Eon,Hyundai,2013,190000,25000,0
+Ford EcoSport Ambiente,Ford,2016,830000,24530,1
+Maruti Suzuki Alto,Maruti,2015,250000,60000,0
+Skoda Fabia Classic,Skoda,2010,182000,60000,0
+Maruti Suzuki Stingray,Maruti,2015,315000,30000,0
+Hyundai Elite i20,Hyundai,2014,415000,32000,0
+Mahindra Scorpio SLE,Mahindra,2015,320000,48660,1
+Hyundai Santro Xing,Hyundai,2007,80000,45000,0
+Mahindra Jeep CL550,Mahindra,2006,425000,40,1
+Audi A8,Audi,2017,1000000,4000,0
+Audi Q7,Audi,2014,500000,16934,1
+Mahindra Scorpio S10,Mahindra,2016,350000,43000,1
+Maruti Suzuki Alto,Maruti,2014,160000,35550,0
+Mahindra Scorpio S10,Mahindra,2016,350000,43000,1
+Mahindra Scorpio S10,Mahindra,2016,310000,39522,1
+Maruti Suzuki Alto,Maruti,2015,75000,39000,0
+Hyundai i20 Sportz,Hyundai,2012,100000,55000,0
+Hyundai i20 Sportz,Hyundai,2012,100000,55000,0
+Hyundai i20 Sportz,Hyundai,2012,100000,55000,0
+Maruti Suzuki Alto,Maruti,2017,190000,72000,0
+Maruti Suzuki Vitara,Maruti,2016,290000,15975,1
+Maruti Suzuki Alto,Maruti,2008,95000,70000,0
+Mahindra Bolero DI,Mahindra,2017,180000,23452,1
+Maruti Suzuki Swift,Maruti,2014,385000,35522,1
+Mahindra Scorpio S10,Mahindra,2015,250000,48508,1
+Maruti Suzuki Swift,Maruti,2017,180000,15487,0
+Maruti Suzuki Wagon,Maruti,2013,105000,39000,0
+Maruti Suzuki Wagon,Maruti,2013,105000,39000,0
+Toyota Innova 2.0,Toyota,2012,650000,82000,1
+Renault Lodgy 85,Renault,2018,689999,20000,1
+Skoda Yeti Ambition,Skoda,2012,448000,68000,1
+Maruti Suzuki Baleno,Maruti,2017,549000,32000,1
+Renault Duster 110,Renault,2012,501000,38000,1
+Renault Duster 85,Renault,2013,489999,27000,1
+Honda City 1.5,Honda,2011,280000,33000,0
+Maruti Suzuki Alto,Maruti,2015,250000,60000,0
+Maruti Suzuki Dzire,Maruti,2013,349999,46000,1
+Honda Amaze,Honda,2013,284999,46000,1
+Honda Amaze 1.5,Honda,2015,345000,36000,1
+Honda City,Honda,2015,499999,55000,0
+Datsun Redi GO,Datsun,2017,235000,16000,0
+Maruti Suzuki SX4,Maruti,2010,249999,36000,0
+Mitsubishi Pajero Sport,Mitsubishi,2015,1475000,47000,1
+Mahindra Bolero DI,Mahindra,2017,180000,23452,1
+Maruti Suzuki Swift,Maruti,2014,385000,35522,1
+Mahindra Scorpio S10,Mahindra,2015,250000,48508,1
+Maruti Suzuki Swift,Maruti,2017,180000,15487,0
+Maruti Suzuki Wagon,Maruti,2013,105000,39000,0
+Maruti Suzuki Wagon,Maruti,2013,105000,39000,0
+Mahindra Scorpio S10,Mahindra,2015,395000,35000,1
+Maruti Suzuki Swift,Maruti,2017,220000,30874,0
+Honda City ZX,Honda,2017,170000,15000,1
+Maruti Suzuki Wagon,Maruti,2013,85000,29685,0
+Ford Figo,Ford,2012,175000,41000,1
+Hyundai Eon,Hyundai,2013,190000,25000,0
+Tata Indigo eCS,Tata,2017,200000,130000,1
+Ford EcoSport Ambiente,Ford,2016,830000,24530,1
+Tata Indigo eCS,Tata,2017,200000,130000,1
+Mahindra Scorpio SLE,Mahindra,2012,570000,19000,1
+Volkswagen Polo Highline,Volkswagen,2014,315000,60000,0
+Skoda Fabia Classic,Skoda,2010,182000,60000,0
+Maruti Suzuki Stingray,Maruti,2015,315000,30000,0
+Chevrolet Spark LS,Chevrolet,2010,110000,41000,0
+Renault Duster 110PS,Renault,2012,501000,35000,1
+Honda City,Honda,2015,448999,54000,0
+Datsun Redi GO,Datsun,2017,235000,16000,0
+Skoda Fabia 1.2L,Skoda,2011,159500,38200,1
+Honda Amaze,Honda,2015,344999,22000,0
+Honda Amaze,Honda,2015,344999,22000,0
+Renault Duster,Renault,2014,449999,50000,1
+Mahindra Scorpio S4,Mahindra,2015,865000,30000,1
+Mahindra Scorpio VLX,Mahindra,2014,699000,50000,1
+Mahindra Quanto C8,Mahindra,2013,375000,20000,1
+Ford EcoSport,Ford,2017,489999,39000,0
+Honda Brio,Honda,2012,224999,30000,0
+Volkswagen Vento Highline,Volkswagen,2019,1200000,3600,1
+Hyundai i20 Magna,Hyundai,2009,195000,32000,0
+Toyota Corolla Altis,Toyota,2010,351000,38000,1
+Hyundai Verna Transform,Hyundai,2008,160000,45000,0
+Toyota Corolla Altis,Toyota,2009,240000,35000,0
+Honda City 1.5,Honda,2005,90000,50000,0
+Hyundai Elite i20,Hyundai,2014,415000,32000,0
+Skoda Fabia 1.2L,Skoda,2011,155000,45863,1
+BMW 3 Series,BMW,2011,600000,60500,0
+Maruti Suzuki A,Maruti,2011,189500,12500,0
+Toyota Etios GD,Toyota,2013,350000,60000,1
+Ford Figo Diesel,Ford,2012,210000,35000,1
+Maruti Suzuki Swift,Maruti,2014,390000,35000,0
+Chevrolet Beat LT,Chevrolet,2012,135000,45000,1
+BMW 7 Series,BMW,2009,1600000,35000,0
+Mahindra XUV500 W8,Mahindra,2013,701000,38000,1
+Hyundai i10 Magna,Hyundai,2014,265000,18000,0
+Hyundai Verna Fluidic,Hyundai,2015,525000,35000,1
+Maruti Suzuki Swift,Maruti,2013,372000,13349,0
+Maruti Suzuki Ertiga,Maruti,2016,635000,29000,0
+Ford EcoSport Titanium,Ford,2014,550000,44000,1
+Maruti Suzuki Ertiga,Maruti,2016,575000,29000,0
+Maruti Suzuki Ertiga,Maruti,2013,485000,42000,1
+Maruti Suzuki Alto,Maruti,2012,155000,14000,0
+Hyundai Grand i10,Hyundai,2014,345000,49000,1
+Honda Amaze 1.2,Honda,2014,325000,42000,0
+Hyundai i20 Asta,Hyundai,2012,329500,36200,1
+Ford Figo Diesel,Ford,2014,195000,50000,1
+Maruti Suzuki Eeco,Maruti,2015,251111,55000,0
+Maruti Suzuki Ertiga,Maruti,2014,569999,45000,0
+Maruti Suzuki Esteem,Maruti,2007,69999,51000,0
+Maruti Suzuki Ritz,Maruti,2014,299999,19000,0
+Maruti Suzuki Dzire,Maruti,2009,220000,46000,0
+Maruti Suzuki Ritz,Maruti,2013,399999,33000,1
+Maruti Suzuki Swift,Maruti,2013,372000,13349,0
+Maruti Suzuki Dzire,Maruti,2015,450000,104000,1
+Toyota Etios Liva,Toyota,2014,270000,55000,0
+Hyundai i20 Sportz,Hyundai,2011,350000,33333,1
+Chevrolet Spark,Chevrolet,2012,158400,33600,0
+Maruti Suzuki Alto,Maruti,2017,350000,5600,0
+Nissan Micra XV,Nissan,2011,179000,41000,0
+Maruti Suzuki Swift,Maruti,2007,125000,70000,0
+Maruti Suzuki Alto,Maruti,2018,200000,7500,0
+Honda Amaze 1.5,Honda,2013,299000,45000,1
+Maruti Suzuki Alto,Maruti,2015,220000,38000,0
+Chevrolet Beat,Chevrolet,2015,150000,30000,0
+Honda City 1.5,Honda,2010,285000,35000,0
+Ford EcoSport Trend,Ford,2016,830000,24330,1
+Hyundai i20 Asta,Hyundai,2009,210000,65480,0
+Maruti Suzuki Swift,Maruti,2013,340000,41000,0
+Tata Indica V2,Tata,2006,90000,20000,0
+Hindustan Motors Ambassador,Hindustan,2000,70000,200000,1
+Toyota Corolla Altis,Toyota,2010,289999,70000,0
+Toyota Corolla Altis,Toyota,2012,349999,59000,0
+Toyota Innova 2.5,Toyota,2012,849999,99000,1
+Volkswagen Jetta Highline,Volkswagen,2014,749999,46000,1
+Volkswagen Polo Comfortline,Volkswagen,2015,399999,2800,0
+Volkswagen Polo,Volkswagen,2014,274999,32000,0
+Mahindra Scorpio,Mahindra,2015,984999,22000,1
+Renault Duster,Renault,2014,449999,50000,1
+Honda Amaze,Honda,2015,344999,22000,0
+Nissan Sunny,Nissan,2012,224999,45000,0
+Hyundai Elite i20,Hyundai,2018,599999,21000,0
+Renault Kwid,Renault,2016,244999,11000,0
+Renault Duster,Renault,2013,399999,41000,1
+Ford EcoSport,Ford,2017,489999,39000,0
+Renault Duster,Renault,2014,474999,50000,1
+Mahindra Scorpio VLX,Mahindra,2011,499999,66000,1
+Maruti Suzuki Alto,Maruti,2018,310000,3000,0
+Chevrolet Spark LT,Chevrolet,2010,85000,45000,0
+Datsun Redi GO,Datsun,2016,245000,7000,0
+Maruti Suzuki Swift,Maruti,2010,189500,38500,1
+Fiat Punto Emotion,Fiat,2012,169500,37200,1
+Maruti Suzuki Swift,Maruti,2010,159500,43200,1
+Toyota Etios GD,Toyota,2013,275000,24800,0
+Hyundai i20 Sportz,Hyundai,2014,370000,60000,1
+Hyundai i10 Sportz,Hyundai,2010,168000,45872,0
+Chevrolet Beat LT,Chevrolet,2011,150000,40000,1
+Chevrolet Beat LS,Chevrolet,2011,145000,45000,1
+Chevrolet Beat LT,Chevrolet,2012,98500,38000,1
+Mahindra Scorpio VLX,Mahindra,2014,699000,50000,1
+Tata Indigo CS,Tata,2011,85000,11400,1
+Toyota Corolla Altis,Toyota,2015,575000,42000,0
+Honda City 1.5,Honda,2014,549000,39000,0
+Maruti Suzuki Swift,Maruti,2011,209000,47000,1
+Hyundai Eon Era,Hyundai,2013,185000,27000,0
+Mahindra Scorpio S10,Mahindra,2015,900000,97200,1
+Mahindra XUV500,Mahindra,2014,699999,52000,1
+Honda Brio,Honda,2012,224999,30000,0
+Ford Fiesta,Ford,2011,274999,55000,1
+Honda Amaze,Honda,2013,284999,46000,1
+Honda City,Honda,2015,599999,30000,1
+Maruti Suzuki Wagon,Maruti,2012,199999,44000,0
+Honda City,Honda,2014,544999,45000,1
+Hyundai i20,Hyundai,2009,199000,31000,0
+Tata Indigo eCS,Tata,2016,320000,175430,1
+Hyundai Fluidic Verna,Hyundai,2015,540000,38000,1
+Mahindra Quanto C8,Mahindra,2013,340000,37000,1
+Fiat Petra ELX,Fiat,2008,75000,65000,0
+Skoda Fabia 1.2L,Skoda,2011,159500,38200,1
+Hyundai Santro Xing,Hyundai,2005,49000,7500,0
+Maruti Suzuki Ciaz,Maruti,2016,700000,3350,0
+Maruti Suzuki Zen,Maruti,2000,55000,60000,0
+Honda City,Honda,2015,448999,54000,0
+Hyundai Creta 1.6,Hyundai,2017,895000,32000,0
+Mahindra Scorpio SLX,Mahindra,2007,355000,75000,1
+Mahindra Scorpio SLE,Mahindra,2012,565000,62000,1
+Toyota Innova 2.5,Toyota,2006,365000,73000,1
+Maruti Suzuki Alto,Maruti,2011,145000,41000,0
+Maruti Suzuki Wagon,Maruti,2011,210000,35000,0
+Tata Nano Cx,Tata,2013,40000,2200,0
+Maruti Suzuki Alto,Maruti,2013,125000,39000,0
+Maruti Suzuki Wagon,Maruti,2009,135000,45000,0
+Maruti Suzuki Swift,Maruti,2006,135000,45000,0
+Tata Sumo Victa,Tata,2012,285000,65000,1
+Maruti Suzuki Wagon,Maruti,2010,145000,54870,0
+Maruti Suzuki Alto,Maruti,2010,135000,34580,0
+Volkswagen Passat Diesel,Volkswagen,2009,450000,97000,1
+Renault Scala RxL,Renault,2015,375000,25000,1
+Mahindra Quanto C8,Mahindra,2013,375000,20000,1
+Hyundai Grand i10,Hyundai,2014,365000,20000,0
+Hyundai i20 Active,Hyundai,2015,500000,18000,0
+Mahindra Xylo E4,Mahindra,2012,400000,35000,1
+Mahindra Jeep MM,Mahindra,2019,390000,60,1
+Renault Duster 110PS,Renault,2012,501000,35000,1
+Mahindra Bolero SLE,Mahindra,2013,330000,80200,1
+Force Motors Force,Force,2015,580000,3200,1
+Maruti Suzuki SX4,Maruti,2012,265000,46000,1
+Mahindra Jeep CL550,Mahindra,2019,379000,0,1
+Maruti Suzuki Alto,Maruti,2015,219000,5000,0
+Mahindra Jeep CL550,Mahindra,2018,385000,588,1
+Toyota Etios,Toyota,2011,275000,36000,1
+Volkswagen Polo,Volkswagen,2015,330000,38000,1
+Honda City ZX,Honda,2008,110000,45000,0
+Maruti Suzuki Wagon,Maruti,2006,80000,71200,0
+Honda City VX,Honda,2016,519000,52000,1
+Mahindra Thar CRDe,Mahindra,2016,730000,29000,1
+Mitsubishi Pajero Sport,Mitsubishi,2015,1475000,47000,1
+Audi A4 1.8,Audi,2009,699000,47000,0
+Renault Kwid RXT,Renault,2017,340000,5000,0
+Tata Aria Pleasure,Tata,2014,390000,35000,1
+Mercedes Benz B,Mercedes,2014,1400000,31000,0
+Datsun GO T,Datsun,2016,245000,7000,0
+Tata Indigo eCS,Tata,2016,320000,175430,1
+Tata Indigo eCS,Tata,2016,320000,175400,1
+Honda Jazz VX,Honda,2016,450000,41000,0
+Honda Amaze 1.2,Honda,2014,311000,33000,0
+Honda Amaze,Honda,2013,284999,46000,1
+Honda City,Honda,2012,399999,45000,0
+Honda City,Honda,2015,599999,39000,1
+Honda Amaze,Honda,2015,344999,22000,0
+Audi A4 1.8,Audi,2009,699000,47000,0
+Force Motors Force,Force,2015,580000,3200,1
+Mahindra Scorpio S4,Mahindra,2015,855000,30000,1
+Hyundai i20 Active,Hyundai,2015,535000,37000,1
+Maruti Suzuki Ciaz,Maruti,2017,699000,14000,0
+Chevrolet Tavera Neo,Chevrolet,2013,375000,55000,1
+Honda Amaze,Honda,2013,284999,46000,1
+Hyundai Eon Sportz,Hyundai,2012,178000,30000,0
+Tata Sumo Gold,Tata,2013,300000,50000,1
+Maruti Suzuki Wagon,Maruti,2003,90000,45000,0
+Maruti Suzuki Esteem,Maruti,2006,95000,45000,0
+Maruti Suzuki Eeco,Maruti,2015,255000,9300,0
+Chevrolet Enjoy 1.4,Chevrolet,2013,245000,55000,1
+Hyundai i20 Asta,Hyundai,2012,329500,36200,1
+Ford Figo Diesel,Ford,2014,195000,50000,1
+Maruti Suzuki Eeco,Maruti,2015,251111,55000,0
+Maruti Suzuki Ertiga,Maruti,2014,569999,45000,0
+Maruti Suzuki Esteem,Maruti,2007,69999,51000,0
+Maruti Suzuki Ritz,Maruti,2014,299999,19000,0
+Maruti Suzuki Dzire,Maruti,2009,220000,46000,0
+Maruti Suzuki Ritz,Maruti,2013,399999,33000,1
+Maruti Suzuki SX4,Maruti,2010,249999,36000,0
+Maruti Suzuki Wagon,Maruti,2015,289999,22000,0
+Nissan Terrano XL,Nissan,2015,499999,60000,1
+Renault Duster 85,Renault,2013,489999,27000,1
+Renault Duster 85,Renault,2014,489999,59000,1
+Renault Duster 85,Renault,2015,549999,19000,1
+Maruti Suzuki Dzire,Maruti,2013,380000,30000,0
+Renault Kwid RXT,Renault,2018,325000,15000,0
+Maruti Suzuki Maruti,Maruti,2003,57000,56758,0
+Renault Kwid 1.0,Renault,2018,349999,10000,0
+Renault Lodgy 85,Renault,2018,689999,20000,1
+Renault Scala RxL,Renault,2014,349999,49000,1
+Hyundai Grand i10,Hyundai,2014,410000,41000,0
+Maruti Suzuki Swift,Maruti,2011,225000,45000,0
+Chevrolet Beat LS,Chevrolet,2010,120000,43000,0
+Tata Indigo eCS,Tata,2016,320000,175430,1
+Hyundai Santro Xing,Hyundai,2000,59000,56450,0
+Hyundai Fluidic Verna,Hyundai,2015,540000,38000,1
+Chevrolet Beat LS,Chevrolet,2010,80000,56000,0
+Mahindra Quanto C8,Mahindra,2013,340000,37000,1
+Fiat Petra ELX,Fiat,2008,75000,65000,0
+Chevrolet Beat LS,Chevrolet,2015,220000,32700,0
+Skoda Fabia 1.2L,Skoda,2011,159500,38200,1
+Ford EcoSport Titanium,Ford,2016,599000,30000,1
+Hyundai Accent GLX,Hyundai,2006,80000,56000,0
+Mahindra TUV300 T4,Mahindra,2016,675000,9000,1
+Tata Indica V2,Tata,2008,150000,11000,0
+Tata Indigo CS,Tata,2009,72500,46000,1
+Maruti Suzuki Swift,Maruti,2019,610000,73,0
+Mahindra Scorpio VLX,Mahindra,2004,230000,160000,1
+Honda Accord,Honda,2009,175000,58559,0
+Mahindra Scorpio S4,Mahindra,2015,855000,30000,1
+Chevrolet Tavera Neo,Chevrolet,2013,375000,55000,1
+Ford EcoSport Titanium,Ford,2014,520000,57000,1
+Maruti Suzuki Ertiga,Maruti,2015,524999,50000,1
+Honda Amaze,Honda,2014,299999,37000,0
+Maruti Suzuki Dzire,Maruti,2012,299999,40000,0
+Honda City,Honda,2011,284999,55000,0
+Mahindra Scorpio 2.6,Mahindra,2007,220000,170000,1
+Maruti Suzuki Dzire,Maruti,2014,424999,55000,1
+Honda City,Honda,2015,644999,39000,0
+Honda Mobilio,Honda,2014,399999,44000,0
+Toyota Corolla Altis,Toyota,2009,199999,65000,0
+Honda City,Honda,2014,584999,39000,0
+Skoda Laura,Skoda,2012,349999,44000,1
+Renault Duster,Renault,2015,449999,49000,1
+Maruti Suzuki Ertiga,Maruti,2018,799999,9000,1
+Maruti Suzuki Dzire,Maruti,2015,444999,45000,1
+Mahindra XUV500,Mahindra,2014,649999,47000,1
+Hyundai Verna Fluidic,Hyundai,2012,444999,40000,1
+Maruti Suzuki Vitara,Maruti,2016,689999,29000,1
+Maruti Suzuki Wagon,Maruti,2016,344999,15000,0
+Mahindra Scorpio,Mahindra,2015,944999,45000,1
+Honda Amaze,Honda,2014,274999,35000,0
+Mahindra XUV500,Mahindra,2013,689999,80000,1
+Mahindra Scorpio,Mahindra,2013,574999,68000,1
+Skoda Laura,Skoda,2013,374999,50000,1
+Volkswagen Polo,Volkswagen,2010,199999,60000,1
+Hyundai Elite i20,Hyundai,2016,549999,9000,0
+Tata Manza Aura,Tata,2012,130000,72000,1
+Chevrolet Sail UVA,Chevrolet,2013,210000,60000,0
+Renault Duster 110,Renault,2012,501000,38000,1
+Hyundai Verna Fluidic,Hyundai,2013,401000,45000,1
+Audi A4 2.0,Audi,2012,1350000,40000,1
+Hyundai Elantra SX,Hyundai,2013,600000,20000,0
+Mahindra Scorpio VLX,Mahindra,2013,610000,35000,1
+Mahindra KUV100 K8,Mahindra,2016,400000,20000,1
+Renault Scala RxL,Renault,2015,375000,25000,1
+Mahindra Quanto C8,Mahindra,2013,375000,20000,1
+Hyundai Grand i10,Hyundai,2014,365000,20000,0
+Hyundai i20 Active,Hyundai,2015,500000,18000,0
+Mahindra Xylo E4,Mahindra,2012,400000,35000,1
+Hyundai Grand i10,Hyundai,2017,524999,6821,0
+Hyundai i20,Hyundai,2014,449999,23000,0
+Hyundai Eon,Hyundai,2014,174999,14000,0
+Hyundai i10,Hyundai,2012,244999,38000,0
+Hyundai i20 Active,Hyundai,2015,574999,35000,1
+Datsun Redi GO,Datsun,2017,244999,22000,0
+Toyota Etios Liva,Toyota,2011,239999,41000,0
+Hyundai Accent,Hyundai,2010,99999,45000,0
+Hyundai Verna,Hyundai,2014,489999,44000,1
+Maruti Suzuki Swift,Maruti,2013,324999,45000,1
+Toyota Fortuner,Toyota,2011,1074999,52000,1
+Hyundai i10 Sportz,Hyundai,2012,230000,34000,0
+Mahindra Bolero Power,Mahindra,2018,699000,1800,1
+Mahindra XUV500,Mahindra,2015,1000000,15000,1
+Honda City 1.5,Honda,2010,240000,400000,0
+Chevrolet Spark LT,Chevrolet,2009,110000,44000,0
+Mahindra Jeep MM,Mahindra,2019,390000,60,1
+Renault Duster 110PS,Renault,2012,501000,35000,1
+Mahindra XUV500,Mahindra,2016,1130000,72000,1
+Tata Indigo eCS,Tata,2014,250000,40000,1
+Mahindra Bolero SLE,Mahindra,2013,330000,80200,1
+Force Motors Force,Force,2015,580000,3200,1
+Skoda Rapid Elegance,Skoda,2013,340000,48000,1
+Tata Vista Quadrajet,Tata,2011,120000,90000,1
+Maruti Suzuki Alto,Maruti,2015,265000,12000,0
+Maruti Suzuki SX4,Maruti,2012,265000,46000,1
+Maruti Suzuki Zen,Maruti,2003,85000,69900,0
+Mahindra Jeep CL550,Mahindra,2019,379000,0,1
+Hyundai i10 Magna,Hyundai,2011,175000,45000,0
+Maruti Suzuki Alto,Maruti,2015,219000,5000,0
+Maruti Suzuki Swift,Maruti,2016,350000,166000,1
+Honda City ZX,Honda,2008,149000,42000,0
+Mahindra Jeep CL550,Mahindra,2018,385000,588,1
+Mahindra Jeep MM,Mahindra,2006,425000,122,1
+Chevrolet Beat Diesel,Chevrolet,2017,150000,62000,1
+Honda City 1.5,Honda,2010,225000,70000,0
+Hyundai Verna 1.4,Hyundai,2014,375000,36000,0
+Toyota Innova 2.5,Toyota,2012,770000,0,1
+Maruti Suzuki Maruti,Maruti,1995,30000,55000,0
+Toyota Etios,Toyota,2011,275000,36000,1
+Volkswagen Polo,Volkswagen,2015,330000,38000,1
+Maruti Suzuki Swift,Maruti,2014,335000,55000,1
+Hyundai Elite i20,Hyundai,2015,450000,20000,1
+Maruti Suzuki Swift,Maruti,2012,225000,40000,0
+Maruti Suzuki Versa,Maruti,2004,80000,50000,0
+Tata Indigo LX,Tata,2016,130000,104000,1
+Volkswagen Vento Konekt,Volkswagen,2011,245000,65000,1
+Mercedes Benz C,Mercedes,2002,399000,41000,0
+Maruti Suzuki Ertiga,Maruti,2013,450000,90000,1
+Honda City,Honda,2000,65000,80000,0
+Hyundai Santro Xing,Hyundai,2006,75000,46000,0
+Maruti Suzuki Omni,Maruti,2001,70000,70000,0
+Hyundai Sonata Transform,Hyundai,2017,190000,36469,1
+Hyundai Elite i20,Hyundai,2018,600000,7800,0
+Volkswagen Vento Konekt,Volkswagen,2011,245000,65000,1
+Maruti Suzuki Alto,Maruti,2017,240000,60000,0
+Maruti Suzuki Alto,Maruti,2011,155000,32000,0
+Honda Jazz S,Honda,2009,169999,24695,0
+Hyundai Grand i10,Hyundai,2017,450000,15141,0
+Maruti Suzuki Zen,Maruti,2001,40000,40000,0
+Mahindra Scorpio W,Mahindra,2012,165000,65000,1
+Maruti Suzuki Alto,Maruti,2014,270000,22000,0
+Hyundai Grand i10,Hyundai,2016,280000,59910,1
+Mahindra XUV500 W8,Mahindra,2012,560000,100000,1
+Hyundai Creta 1.6,Hyundai,2016,950000,25000,0
+Hyundai i20 Magna,Hyundai,2013,310000,35000,0
+Renault Duster 85,Renault,2015,715000,65000,1
+Hyundai Grand i10,Hyundai,2014,340000,35000,0
+Honda Brio V,Honda,2012,235000,33000,0
+Mahindra TUV300 T4,Mahindra,2017,610000,68000,1
+Chevrolet Spark LS,Chevrolet,2010,95000,23000,0
+Mahindra TUV300 T8,Mahindra,2018,1000000,4500,1
+Maruti Suzuki Swift,Maruti,2015,220000,129000,1
+Nissan X Trail,Nissan,2019,1200000,300,1
+Maruti Suzuki Alto,Maruti,2015,230000,5000,0
+Ford Ikon 1.3,Ford,2001,45000,65000,0
+Toyota Fortuner 3.0,Toyota,2010,940000,131000,1
+Tata Manza ELAN,Tata,2010,155555,111111,0
+Mercedes Benz A,Mercedes,2013,1500000,14000,0
+Chevrolet Beat LS,Chevrolet,2016,210000,22000,1
+Ford EcoSport Trend,Ford,2013,495000,38000,1
+Tata Indigo LS,Tata,2016,125000,70000,1
+Hyundai i20 Magna,Hyundai,2010,195000,36000,0
+Volkswagen Vento Highline,Volkswagen,2015,550000,34000,1
+Renault Kwid RXT,Renault,2015,270000,43000,0
+Ford EcoSport Titanium,Ford,2014,500000,40000,1
+Honda Amaze 1.5,Honda,2016,240000,160000,1
+Hyundai Verna 1.6,Hyundai,2017,800000,12000,0
+BMW 5 Series,BMW,2011,1299000,49000,1
+Skoda Superb 1.8,Skoda,2011,530000,68000,0
+Audi Q3 2.0,Audi,2013,1499000,37000,1
+Mahindra Bolero DI,Mahindra,2012,220000,59466,1
+Mahindra Scorpio S10,Mahindra,2015,900000,97200,1
+Ford Figo Duratorq,Ford,2012,250000,99000,1
+Maruti Suzuki Wagon,Maruti,2018,395000,25500,0
+Mahindra Logan Diesel,Mahindra,2009,130000,66000,0
+Tata Nano GenX,Tata,2010,32000,44005,0
+Mahindra TUV300 T4,Mahindra,2016,540000,35000,1
+Mahindra TUV300 T4,Mahindra,2016,540000,35000,1
+Hyundai Elite i20,Hyundai,2015,405000,28000,0
+Hyundai Elite i20,Hyundai,2015,400000,30000,0
+Honda City SV,Honda,2017,760000,4000,0
+Maruti Suzuki Baleno,Maruti,2016,500000,28000,0
+Ford Figo Petrol,Ford,2011,175000,75000,0
+Mahindra Scorpio S10,Mahindra,2015,900000,97200,1
+Honda City,Honda,2017,750000,3000,0
+Hyundai Elite i20,Hyundai,2015,419000,20000,0
+Maruti Suzuki Versa,Maruti,2004,90000,50000,0
+Hyundai Eon Era,Hyundai,2018,140000,2110,0
+Mitsubishi Pajero Sport,Mitsubishi,2015,1540000,43222,0
+Hyundai i10 Magna,Hyundai,2008,275000,100200,0
+Toyota Corolla H2,Toyota,2003,150000,100000,0
+Maruti Suzuki Swift,Maruti,2011,230000,65,0
+Tata Indigo CS,Tata,2015,123000,100000,1
+Mahindra Scorpio S10,Mahindra,2015,900000,97200,1
+Mahindra Scorpio S10,Mahindra,2015,900000,97200,1
+Hyundai Xcent Base,Hyundai,2016,300000,140000,1
+Honda City,Honda,2015,499999,55000,0
+Hyundai Accent Executive,Hyundai,2009,165000,48000,0
+Maruti Suzuki Baleno,Maruti,2016,498000,22000,0
+Tata Zest XE,Tata,2018,480000,103553,1
+Maruti Suzuki Dzire,Maruti,2017,488000,80000,1
+Tata Sumo Gold,Tata,2014,250000,99000,1
+Toyota Corolla Altis,Toyota,2010,220000,58000,0
+Toyota Fortuner 3.0,Toyota,2015,1525000,120000,1
+Mahindra XUV500 W6,Mahindra,2013,548900,49800,1
+Tata Tigor Revotron,Tata,2019,650000,100,1
+Maruti Suzuki 800,Maruti,2001,55000,81876,0
+Maruti Suzuki Ertiga,Maruti,2015,550000,75000,0
+Maruti Suzuki Versa,Maruti,2004,90000,50000,0
+Honda Mobilio S,Honda,2014,399000,44000,1
+Maruti Suzuki Ertiga,Maruti,2016,730000,55000,1
+Maruti Suzuki Vitara,Maruti,2017,725000,36000,1
+Hyundai Verna 1.6,Hyundai,2016,195000,56000,1
+Maruti Suzuki Swift,Maruti,2007,130000,62000,0
+Toyota Fortuner 3.0,Toyota,2015,1525000,120000,1
+Maruti Suzuki Omni,Maruti,2014,190000,6020,0
+Honda Amaze,Honda,2013,250000,55700,1
+Tata Indica,Tata,2005,80000,42000,0
+Hyundai Santro Xing,Hyundai,2003,120000,50000,0
+Maruti Suzuki Zen,Maruti,2010,149000,35000,0
+Maruti Suzuki Wagon,Maruti,2014,250000,18500,0
+Maruti Suzuki Wagon,Maruti,2007,120000,7000,0
+Honda Brio VX,Honda,2017,450000,11000,0
+Maruti Suzuki Zen,Maruti,2003,99999,53000,0
+Maruti Suzuki Zen,Maruti,2008,135000,23000,0
+Maruti Suzuki Wagon,Maruti,2016,225000,35500,1
+Maruti Suzuki Alto,Maruti,2010,99000,22134,0
+Renault Kwid RXT,Renault,2019,370000,1000,0
+Tata Nano Lx,Tata,2010,52000,9000,0
+Hyundai Eon Magna,Hyundai,2014,190000,35000,0
+Honda City 1.5,Honda,2014,499000,22000,0
+Hindustan Motors Ambassador,Hindustan,2002,90000,25000,1
+Maruti Suzuki Ritz,Maruti,2010,149000,40000,0
+Hyundai Grand i10,Hyundai,2017,400000,20000,0
+Hyundai Eon D,Hyundai,2016,120000,87000,0
+Maruti Suzuki Swift,Maruti,2015,250000,55000,0
+Maruti Suzuki Wagon,Maruti,2017,375000,23000,0
+Honda Amaze 1.2,Honda,2014,381000,6000,0
+Maruti Suzuki Estilo,Maruti,2013,180000,65000,0
+Maruti Suzuki Vitara,Maruti,2016,580000,25000,1
+Maruti Suzuki Eeco,Maruti,2015,278000,39000,0
+Hyundai Creta 1.6,Hyundai,2016,1000000,8000,0
+Mahindra Scorpio Vlx,Mahindra,2013,690000,75000,1
+Maruti Suzuki Ertiga,Maruti,2012,480000,51000,1
+Mitsubishi Lancer 1.8,Mitsubishi,2006,85000,50000,0
+Maruti Suzuki Maruti,Maruti,2001,40000,75000,0
+Maruti Suzuki Alto,Maruti,2015,90000,55800,0
+Hyundai Grand i10,Hyundai,2015,340000,53000,0
+Hyundai Eon D,Hyundai,2018,260000,25000,0
+Ford Fiesta SXi,Ford,2009,250000,56400,0
+Maruti Suzuki Ritz,Maruti,2010,180000,72160,1
+Hyundai Verna Fluidic,Hyundai,2012,350000,10000,1
+Maruti Suzuki Wagon,Maruti,2006,90001,48000,0
+Maruti Suzuki Estilo,Maruti,2007,115000,36000,0
+Audi A6 2.0,Audi,2012,1599000,11500,1
+Maruti Suzuki Wagon,Maruti,2003,130000,133000,0
+Maruti Suzuki Wagon,Maruti,2009,159000,27000,0
+Maruti Suzuki Wagon,Maruti,2009,160000,35000,0
+Maruti Suzuki Alto,Maruti,2010,110000,55000,0
+Maruti Suzuki Baleno,Maruti,2016,425000,40000,0
+Hyundai Verna 1.6,Hyundai,2019,900000,2000,0
+Maruti Suzuki Swift,Maruti,2009,150000,45000,0
+Hyundai Getz Prime,Hyundai,2009,110000,20000,0
+Hyundai Santro,Hyundai,2000,51999,88000,0
+Hyundai Getz Prime,Hyundai,2009,115000,20000,0
+Chevrolet Beat PS,Chevrolet,2012,215000,65422,1
+Ford EcoSport Trend,Ford,2017,580000,10000,0
+Maruti Suzuki Dzire,Maruti,2013,380000,35000,0
+Hyundai Fluidic Verna,Hyundai,2013,350000,117000,1
+Tata Indica V2,Tata,2005,35000,150000,1
+BMW X1 xDrive20d,BMW,2011,1150000,72000,1
+Hyundai i20 Asta,Hyundai,2010,300000,10750,0
+Honda City 1.5,Honda,2009,269000,55000,0
+Tata Nano,Tata,2013,60000,6800,0
+Chevrolet Cruze LTZ,Chevrolet,2014,400000,41000,1
+Hyundai Verna Fluidic,Hyundai,2015,430000,73000,1
+Maruti Suzuki Swift,Maruti,2011,140000,65000,1
+Mahindra XUV500 W10,Mahindra,2018,1299000,40000,1
+Maruti Suzuki Alto,Maruti,2014,199000,37000,0
+Hyundai Accent GLE,Hyundai,2006,90000,55000,0
+Force Motors One,Force,2013,550000,140000,1
+Maruti Suzuki Alto,Maruti,2019,265000,9800,0
+Chevrolet Spark 1.0,Chevrolet,2011,100000,27000,0
+Hyundai i10,Hyundai,2009,215000,27000,0
+Toyota Etios Liva,Toyota,2012,380000,20000,1
+Renault Duster 85PS,Renault,2013,401919,57923,1
+Chevrolet Enjoy,Chevrolet,2014,490000,30201,1
+Maruti Suzuki Alto,Maruti,2017,280000,6200,0
+BMW 5 Series,BMW,2009,650000,37518,0
+Toyota Etios Liva,Toyota,2014,160000,24652,0
+Mahindra Jeep MM,Mahindra,2004,424000,383,1
+Chevrolet Beat LS,Chevrolet,2016,225000,95000,1
+Chevrolet Cruze LTZ,Chevrolet,2011,350000,35000,1
+Jeep Wrangler Unlimited,Jeep,2015,950000,3528,1
+Maruti Suzuki Ertiga,Maruti,2013,485000,52500,1
+Hyundai Verna VGT,Hyundai,2010,205000,47900,1
+Maruti Suzuki Omni,Maruti,2012,160000,14000,0
+Maruti Suzuki Celerio,Maruti,2018,310000,37000,0
+Tata Zest Quadrajet,Tata,2017,180000,90000,1
+Mahindra XUV500 W6,Mahindra,2013,549900,52800,1
+Tata Indigo CS,Tata,2016,150000,104000,1
+Hyundai i10 Era,Hyundai,2011,175000,30000,0
+Tata Indigo eCS,Tata,2014,95000,195000,1
+Tata Indigo LX,Tata,2016,230000,104000,1
+Tata Indigo eCS,Tata,2016,230000,104000,1
+Tata Indigo Marina,Tata,2004,180000,70000,1
+Hyundai Xcent SX,Hyundai,2015,400000,43000,1
+Hyundai Eon Magna,Hyundai,2013,185000,23000,0
+Renault Duster 85,Renault,2015,385000,51000,1
+Maruti Suzuki Alto,Maruti,2009,90000,62000,0
+Tata Nano LX,Tata,2010,32000,48008,0
+Renault Duster 110,Renault,2013,435000,39000,1
+Maruti Suzuki Wagon,Maruti,2010,225000,40000,0
+Maruti Suzuki Swift,Maruti,2006,189700,48247,0
+Maruti Suzuki Ertiga,Maruti,2012,389700,39000,1
+Maruti Suzuki Swift,Maruti,2014,365000,23000,0
+Maruti Suzuki Alto,Maruti,2017,360000,9400,0
+Hyundai i20 Magna,Hyundai,2010,210000,50000,0
+Hyundai i10 Magna,Hyundai,2009,170000,75000,0
+Tata Zest XE,Tata,2017,380000,70000,1
+Mahindra Xylo E8,Mahindra,2009,295000,64000,1
+Toyota Corolla Altis,Toyota,2010,185000,55000,0
+Tata Manza Aqua,Tata,2014,160000,200000,1
+Renault Kwid 1.0,Renault,2018,290000,2137,0
+Tata Venture EX,Tata,2013,100000,30000,1
+Maruti Suzuki Swift,Maruti,2014,315000,44000,0
+Skoda Octavia Classic,Skoda,2006,114990,65000,1
+Chevrolet Beat Diesel,Chevrolet,2011,125000,56000,1
+Tata Sumo Gold,Tata,2012,210000,75000,1
+Hyundai Verna 1.6,Hyundai,2018,855000,42000,1
+Tata Sumo Gold,Tata,2012,210000,75000,1
+Mahindra Scorpio 2.6,Mahindra,2007,260000,56000,1
+Maruti Suzuki Zen,Maruti,2002,95000,10544,0
+Maruti Suzuki Swift,Maruti,2011,255000,64000,0
+Mahindra Scorpio SLX,Mahindra,2008,300000,70000,1
+Hyundai Grand i10,Hyundai,2014,340000,25000,0
+Hyundai Elite i20,Hyundai,2017,550000,15000,0
+Ford Ikon 1.6,Ford,2003,60000,50000,0
+Toyota Innova 2.5,Toyota,2011,750000,147000,1
+Nissan Sunny XL,Nissan,2011,230000,52000,0
+Chevrolet Beat LT,Chevrolet,2012,130000,90001,1
+Maruti Suzuki Alto,Maruti,2017,270000,21000,0
+Maruti Suzuki Swift,Maruti,2012,280000,48006,1
+Maruti Suzuki Swift,Maruti,2012,280000,48006,1
+Maruti Suzuki Swift,Maruti,2012,280000,48006,1
+Toyota Innova 2.0,Toyota,2012,600000,80000,1
+Maruti Suzuki Swift,Maruti,2010,190000,74000,1
+Hyundai Elite i20,Hyundai,2015,500000,22000,0
+Mahindra XUV500 W10,Mahindra,2016,1065000,41000,1
+Volkswagen Polo Trendline,Volkswagen,2015,350000,25000,1
+Toyota Etios Liva,Toyota,2012,350000,85000,1
+Mahindra TUV300 T4,Mahindra,2016,540000,29500,1
+Hyundai Elite i20,Hyundai,2015,470000,30000,0
+Hyundai Santro Xing,Hyundai,2014,179000,57000,0
+Maruti Suzuki Zen,Maruti,2003,48000,60000,0
+Maruti Suzuki Ciaz,Maruti,2016,650000,50000,0
+Hyundai Eon Era,Hyundai,2013,190000,39700,0
+Hyundai Elantra 1.8,Hyundai,2012,500000,65000,0
+Maruti Suzuki Swift,Maruti,2010,270000,67000,1
+Maruti Suzuki Zen,Maruti,2008,125000,46000,0
+Hyundai Eon Era,Hyundai,2012,188000,38000,0
+Hyundai Grand i10,Hyundai,2016,380000,27000,0
+Hyundai Verna Fluidic,Hyundai,2011,365000,43000,1
+Ford EcoSport Trend,Ford,2014,465000,47000,0
+Hyundai i20 Magna,Hyundai,2011,240000,42000,0
+Chevrolet Beat Diesel,Chevrolet,2016,179999,19336,1
+Tata Indica eV2,Tata,2015,140000,60105,1
+BMW 3 Series,BMW,2011,1075000,35000,1
+Maruti Suzuki Swift,Maruti,2015,475000,22000,0
+BMW X1 sDrive20d,BMW,2012,1025000,41000,1
+Maruti Suzuki S,Maruti,2016,615000,21000,1
+Maruti Suzuki Ertiga,Maruti,2013,475000,48000,1
+Maruti Suzuki Alto,Maruti,2016,270000,38000,0
+Honda City SV,Honda,2014,475000,34000,1
+Volkswagen Vento Comfortline,Volkswagen,2011,240000,45933,0
+Honda City 1.5,Honda,2005,120000,68000,0
+Mahindra KUV100,Mahindra,2017,360000,35000,1
+Tata Zest XE,Tata,2018,450000,102563,1
+Mahindra XUV500 W8,Mahindra,2015,900000,28600,1
+Maruti Suzuki Swift,Maruti,2017,650000,41800,1
+Tata Sumo Gold,Tata,2014,275000,116000,1
+Maruti Suzuki Swift,Maruti,2009,210000,59000,0
+Mahindra Scorpio 2.6,Mahindra,2004,175000,58000,1
+Maruti Suzuki Omni,Maruti,2009,85000,45000,0
+Mitsubishi Pajero Sport,Mitsubishi,2015,1490000,42590,1
+Renault Duster,Renault,2014,800000,7400,1
+Volkswagen Jetta Comfortline,Volkswagen,2009,450000,54500,1
+Maruti Suzuki Ertiga,Maruti,2012,1000000,200000,1
+Audi A4 2.0,Audi,2013,1510000,27000,1
+Toyota Corolla Altis,Toyota,2014,790000,29000,0
+Mitsubishi Pajero Sport,Mitsubishi,2015,1725000,37000,1
+Chevrolet Beat LT,Chevrolet,2012,135000,36000,0
+BMW X1,BMW,2011,1000000,34000,1
+Datsun Redi GO,Datsun,2018,299999,7000,0
+Mercedes Benz C,Mercedes,2009,1225000,76000,1
+Mahindra Scorpio SLX,Mahindra,2004,175000,60000,1
+Volkswagen Vento Comfortline,Volkswagen,2011,200000,95000,1
+Tata Indigo CS,Tata,2017,270000,50000,1
+Ford Figo Petrol,Ford,2019,525000,0,0
+Honda City ZX,Honda,2006,180000,50000,0
+Maruti Suzuki Wagon,Maruti,2008,140000,68000,0
+Ford EcoSport Trend,Ford,2014,400000,16000,0
+Maruti Suzuki Swift,Maruti,2016,499000,51000,1
+Maruti Suzuki Omni,Maruti,2009,85000,56000,0
+Maruti Suzuki Zen,Maruti,2004,70000,100000,0
+Renault Duster RxL,Renault,2015,550000,36000,0
+Maruti Suzuki Swift,Maruti,2014,370000,11523,0
+Maruti Suzuki Baleno,Maruti,2018,690000,1000,0
+Honda WR V,Honda,2009,250000,60000,0
+Tata Indigo CS,Tata,2016,110000,85000,1
+Renault Duster 110,Renault,2013,490000,38600,1
+Mahindra Scorpio LX,Mahindra,2009,320000,95500,1
+Maruti Suzuki Zen,Maruti,2004,68000,56000,0
+Maruti Suzuki Wagon,Maruti,2014,130000,37458,0
+Maruti Suzuki SX4,Maruti,2016,970000,85960,1
+Hyundai Eon D,Hyundai,2018,280000,35000,0
+Maruti Suzuki Zen,Maruti,2009,125000,0,0
+Mahindra Scorpio SLX,Mahindra,2008,285000,80000,1
+Hyundai Santro AE,Hyundai,2011,165000,45000,0
+Maruti Suzuki Swift,Maruti,2009,250000,51000,1
+Mahindra Scorpio S4,Mahindra,2015,865000,30000,1
+Mahindra Xylo D2,Mahindra,2011,390000,48000,1
+Hyundai Santro,Hyundai,2003,60000,51000,0
+Chevrolet Beat LT,Chevrolet,2015,215000,90000,1
+Maruti Suzuki Swift,Maruti,2015,475000,43000,1
+Mahindra XUV500 W8,Mahindra,2015,899000,53000,1
+Toyota Fortuner 3.0,Toyota,2013,1499000,97000,1
+Maruti Suzuki Alto,Maruti,2013,240000,20000,0
+Hyundai Getz GLE,Hyundai,2007,99000,55000,0
+Maruti Suzuki Swift,Maruti,2014,260000,120000,1
+Hyundai Creta 1.6,Hyundai,2019,1200000,0,0
+Hyundai Santro Xing,Hyundai,2007,115000,46000,0
+Hyundai Santro Xing,Hyundai,2009,88000,43200,0
+Mahindra Xylo D2,Mahindra,2011,390000,56000,1
+Hyundai Santro Xing,Hyundai,2007,135000,42000,0
+Tata Indica V2,Tata,2009,90000,30600,1
+Hyundai i10 Sportz,Hyundai,2011,220000,38000,0
+Hyundai Grand i10,Hyundai,2017,424999,2550,0
+Hyundai Santro Xing,Hyundai,2007,135000,47000,0
+Honda City 1.5,Honda,2005,95000,41000,0
+Nissan Micra XL,Nissan,2017,430000,62500,1
+Honda City 1.5,Honda,2005,115000,68000,0
+Maruti Suzuki Alto,Maruti,2015,215000,50000,0
+Maruti Suzuki Wagon,Maruti,2004,53000,69000,0
+Maruti Suzuki Ertiga,Maruti,2012,500000,48000,1
+Tata Indica eV2,Tata,2012,85000,55000,1
+Maruti Suzuki Omni,Maruti,2013,165000,25000,0
+Hyundai Eon Era,Hyundai,2014,200000,28400,0
+Hyundai Eon,Hyundai,2014,200000,28000,0
+Maruti Suzuki Swift,Maruti,2015,425000,42000,1
+Hyundai Verna 1.6,Hyundai,2012,600000,29000,1
+Chevrolet Tavera LS,Chevrolet,2005,130000,68485,1
+Tata Tiago Revotron,Tata,2018,430000,3500,0
+Tata Tiago Revotorq,Tata,2019,568500,0,0
+Maruti Suzuki Zen,Maruti,2006,71000,32000,0
+Mahindra KUV100 K8,Mahindra,2018,560000,8000,1
+Ford EcoSport Titanium,Ford,2014,590000,34000,1
+Hindustan Motors Ambassador,Hindustan,1995,750000,37000,0
+Ford Fusion 1.4,Ford,2007,125000,85455,1
+Hyundai Santro Xing,Hyundai,2007,135000,46000,0
+Hyundai Santro,Hyundai,2002,60000,47000,0
+Fiat Linea Emotion,Fiat,2009,120000,64000,0
+Ford Ikon 1.3,Ford,2008,95000,46000,0
+Maruti Suzuki Omni,Maruti,2017,240000,8000,0
+Tata Indica V2,Tata,2012,115000,64000,1
+Mahindra Scorpio S4,Mahindra,2015,795000,63000,1
+Hyundai Santro Xing,Hyundai,2007,55000,65000,0
+Mahindra Xylo D2,Mahindra,2009,300000,62000,1
+Hyundai Grand i10,Hyundai,2014,320000,41000,0
+Maruti Suzuki Alto,Maruti,2015,265000,14000,0
+Toyota Corolla,Toyota,2006,160000,40000,0
+Hyundai Eon Magna,Hyundai,2017,300000,1600,0
+Tata Sumo Grande,Tata,2010,130000,90000,1
+Maruti Suzuki Swift,Maruti,2011,250000,58000,1
+Volkswagen Polo Highline1.2L,Volkswagen,2013,380000,27000,0
+Maruti Suzuki Alto,Maruti,2003,42000,60000,0
+Tata Tiago Revotron,Tata,2017,400000,31000,0
+Maruti Suzuki Swift,Maruti,2009,120000,90000,1
+Maruti Suzuki Swift,Maruti,2009,120000,90000,1
+Tata Indigo eCS,Tata,2016,130000,150000,1
+Chevrolet Beat LS,Chevrolet,2014,189000,31000,1
+Mahindra Xylo E8,Mahindra,2011,365000,43000,1
+Hyundai Eon D,Hyundai,2013,170000,20000,0
+Tata Sumo Gold,Tata,2013,215000,100000,0
+Tata Nano,Tata,2013,60000,7000,0
+Hyundai Elite i20,Hyundai,2017,599999,31000,0
+Hyundai i10 Magna,Hyundai,2009,400000,33000,0
+Hyundai Creta,Hyundai,2016,900000,60000,1
+Volkswagen Polo,Volkswagen,2013,299999,48000,1
+Maruti Suzuki Dzire,Maruti,2014,374999,33000,0
+Tata Bolt XM,Tata,2015,600000,15000,0
+Maruti Suzuki Alto,Maruti,2005,70000,47000,0
+Maruti Suzuki Alto,Maruti,2005,100000,40000,0
+Maruti Suzuki Ritz,Maruti,2010,150000,38000,1
+Maruti Suzuki Alto,Maruti,2017,225000,12500,0
+Maruti Suzuki Dzire,Maruti,2009,210000,42000,0
+Hyundai i20 Asta,Hyundai,2014,425000,31000,0
+Maruti Suzuki Swift,Maruti,2008,162000,60000,1
+Tata Indica V2,Tata,2005,60000,80000,1
+Mahindra Scorpio VLX,Mahindra,2014,650000,77000,1
+Toyota Innova 2.5,Toyota,2012,750000,75000,1
+Mahindra Xylo E8,Mahindra,2010,375000,40000,1
+Hyundai i20 Magna,Hyundai,2011,230000,47000,0
+Maruti Suzuki Omni,Maruti,2000,35999,60000,0
+Mahindra KUV100,Mahindra,2016,380000,26500,0
+Mahindra KUV100 K8,Mahindra,2019,560000,2875,0
+Datsun Go Plus,Datsun,2016,285000,13900,0
+Tata Indica V2,Tata,2005,39999,80000,1
+Hyundai Santro Xing,Hyundai,2006,85000,60000,0
+Maruti Suzuki Wagon,Maruti,2016,395000,20000,0
+Maruti Suzuki Swift,Maruti,2008,175000,58000,1
+Maruti Suzuki Alto,Maruti,2019,400000,1500,0
+Toyota Innova 2.5,Toyota,2011,750000,75000,1
+Maruti Suzuki Alto,Maruti,2016,250000,2450,0
+Maruti Suzuki Alto,Maruti,2019,425000,1625,0
+Volkswagen Polo Highline1.2L,Volkswagen,2017,525000,45000,0
+Mahindra Logan,Mahindra,2009,130000,65000,1
+Maruti Suzuki 800,Maruti,2000,30000,33400,0
+Mahindra Scorpio,Mahindra,2011,475000,60123,1
+Chevrolet Sail 1.2,Chevrolet,2013,300000,28000,0
+Hyundai Santro AE,Hyundai,2003,60000,70000,0
+Maruti Suzuki Wagon,Maruti,2006,100000,7000,0
+Hyundai Eon,Hyundai,2018,260000,25000,0
+Tata Manza,Tata,2015,100000,100000,1
+Toyota Etios G,Toyota,2013,265000,42000,0
+Hyundai Getz Prime,Hyundai,2009,115000,20000,0
+Toyota Qualis,Toyota,2003,180000,100000,1
+Hyundai Santro Xing,Hyundai,2004,45000,137495,0
+Tata Indica eV2,Tata,2016,50500,91200,1
+Honda City 1.5,Honda,2009,270000,55000,0
+Tata Zest XE,Tata,2017,290000,120000,1
+Mahindra Quanto C4,Mahindra,2013,325000,63000,1
+Tata Indigo eCS,Tata,2016,160000,104000,1
+Maruti Suzuki Swift,Maruti,2016,350000,146000,1
+Hyundai Elite i20,Hyundai,2011,290000,40000,0
+Hyundai i20 Select,Hyundai,2011,290000,40000,0
+Chevrolet Tavera Neo,Chevrolet,2007,465000,100800,1
+Maruti Suzuki Dzire,Maruti,2016,325000,150000,1
+Hyundai Elite i20,Hyundai,2018,510000,2100,0
+Honda City VX,Honda,2016,860000,95000,0
+Maruti Suzuki Dzire,Maruti,2016,450000,2500,1
+Hyundai Getz,Hyundai,2006,125000,80000,0
+Mercedes Benz C,Mercedes,2006,500001,15000,0
+Maruti Suzuki Alto,Maruti,2005,95000,65000,0
+Maruti Suzuki Swift,Maruti,2009,250000,51000,1
+Skoda Fabia,Skoda,2009,110000,45000,0
+Maruti Suzuki Ritz,Maruti,2011,270000,50000,0
+Tata Indica V2,Tata,2009,110000,30000,1
+Toyota Corolla Altis,Toyota,2009,300000,132000,0
+Tata Zest XM,Tata,2018,260000,27000,1
+Mahindra Quanto C8,Mahindra,2013,390000,40000,1
