@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Car Price Prediction</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/css/bootstrap.min.css" />
+  </head>
+  <body>
+    <div class="container mt-5">
+      <h1 class="text-center">Car Price Prediction Model</h1>
+      <p class="text-center">Based on [Linear Regression]</p>
+      <p class="text-center">Developed by [Asmit Bhandari]</p>
+
+      <div class="text-center mt-4">
+        <h5>Model Metrics</h5>
+        <p>
+          <strong>R² Score:</strong> {{ r2 }}
+        </p>
+        <p>
+          <strong>Mean Squared Error (MSE):</strong> {{ mse }}
+        </p>
+        <p>
+          <strong>Root Mean Squared Error (RMSE):</strong> {{ rmse }}
+        </p>
+      </div>
+
+      <form action="/predict" method="POST" class="mt-4">
+        <div class="form-group">
+          <label for="company">Car Company:</label>
+          <select class="form-control" id="company" name="company" required>
+            <option value="" disabled selected>Select a company</option>
+            {% for company in companies %}
+              <option value="{{ company }}">{{ company }}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="name">Car Model:</label>
+          <select class="form-control" id="name" name="name" required>
+            <option value="" disabled selected>Select a model</option>
+            {% for model in models %}
+              <option value="{{ model }}">{{ model }}</option>
+            {% endfor %}
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="year">Manufacturing Year:</label>
+          <input type="number" class="form-control" id="year" name="year" min="1990" max="2025" required />
+        </div>
+        <div class="form-group">
+          <label for="kms_driven">Kilometers Driven:</label>
+          <input type="number" class="form-control" id="kms_driven" name="kms_driven" min="0" required />
+        </div>
+        <div class="form-group">
+          <label for="fuel_type">Fuel Type:</label>
+          <select class="form-control" id="fuel_type" name="fuel_type" required>
+            <option value="Petrol">Petrol</option>
+            <option value="Diesel">Diesel</option>
+            <option value="CNG">CNG</option>
+          </select>
+        </div>
+        <button type="submit" class="btn btn-primary btn-block">Predict Price</button>
+      </form>
+
+      {% if prediction %}
+        <div class="alert alert-info text-center mt-4">{{ prediction }}</div>
+      {% endif %}
+    </div>
+  </body>
+</html>
